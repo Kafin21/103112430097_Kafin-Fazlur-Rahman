@@ -223,8 +223,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 1_2](https://github.com/Kafin21/103112430097_Kafin-Fazlur-Rahman/blob/main/Pertemuan2_Modul2/Output-Unguided1-Modul2.png)
-
+!Output-Unguided1-Modul2
 Program ini dibuat untuk ngitung operasi antar dua matriks 3x3 (penjumlahan, pengurangan, atau perkalian).
 Pertama, user disuruh ngisi dua matriks satu per satu. Setelah itu, program nampilin kedua matriks tersebut biar bisa dicek.
 Lalu user milih operasi lewat angka 1-3. Kalau pilih 1, program bakal menjumlahkan tiap elemen matriks; kalau 2, mengurangkan; kalau 3, mengalikan dengan cara baris × kolom.
