@@ -223,7 +223,7 @@ int main() {
 ### Output Unguided 1 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_2](https://github.com/Kafin21/103112430097_Kafin-Fazlur-Rahman/blob/main/Pertemuan2_Modul2/Output-Unguided1-Modul2.png)
+![Output Unguided 1](Output-Unguided1-Modul2.png)
 
 Program ini dibuat untuk ngitung operasi antar dua matriks 3x3 (penjumlahan, pengurangan, atau perkalian).
 Pertama, user disuruh ngisi dua matriks satu per satu. Setelah itu, program nampilin kedua matriks tersebut biar bisa dicek.
@@ -283,7 +283,7 @@ int main() {
 ### Output Unguided 2 :
 
 ##### Output 1
-![Screenshot Output Unguided 2_2](https://github.com/Kafin21/103112430097_Kafin-Fazlur-Rahman/blob/main/Pertemuan2_Modul2/Output-Unguided2-Modul2.png)
+![Output Unguided 2](Output-Unguided2-Modul2.png)
 
 Program ini minta kamu masukin tiga angka (A, B, C).
 Terus nilainya ditukar urutannya — A jadi B, B jadi C, C jadi A.
@@ -395,8 +395,7 @@ int main() {
 ### Output Unguided 3 :
 
 ##### Output 1
-![Screenshot Output Unguided 3_2](https://github.com/Kafin21/103112430097_Kafin-Fazlur-Rahman/blob/main/Pertemuan2_Modul2/Output-Unguided3-Modul2.png)
-
+![Output Unguided 3](Output-Unguided3-Modul2.png)
 
 Program ini menampilkan menu untuk mengolah data dalam sebuah array berisi 10 angka. Pengguna bisa pilih beberapa opsi: menampilkan semua isi array, mencari nilai paling besar (maksimum), mencari nilai paling kecil (minimum), atau menghitung rata-rata dari seluruh angka. Program akan terus berjalan sampai pengguna memilih keluar (pilihan 0).
 
